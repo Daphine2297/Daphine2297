@@ -1,4 +1,4 @@
-###### THE SPARKS FOUNDATION
+## THE SPARKS FOUNDATION
 
 This is my first repository
 
@@ -10,7 +10,7 @@ This is my first repository
 
 ● You can use R, Python, SAS Enterprise Miner or any other tool
 
-● Data can be found at http://bit.ly/w-data -automatic!
+● Data can be found at http://bit.ly/w-data 
 
   will be predicted score if a student studies for 9.25 hrs/ day?
   

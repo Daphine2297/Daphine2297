@@ -12,5 +12,5 @@ This is my first repository
 
 ● Data can be found at http://bit.ly/w-data 
 
-  will be predicted score if a student studies for 9.25 hrs/ day?
+●  What will be predicted score if a student studies for 9.25 hrs/ day?
   

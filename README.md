@@ -1,16 +1,4 @@
-## THE SPARKS FOUNDATION
+# THE SPARKS FOUNDATION- TASK 1
 
-This is my first repository
-
-## Task 1:- Prediction using Supervised ML
-
-● Predict the percentage of an student based on the no. of study hours.
-
-● This is a simple linear regression task as it involves just 2 variables.
-
-● You can use R, Python, SAS Enterprise Miner or any other tool
-
-● Data can be found at http://bit.ly/w-data 
-
-●  What will be predicted score if a student studies for 9.25 hrs/ day?
-  
+## Prediction using Supervised ML
+Data Science and Business Analytics Task-1 (Predict the percentage of an student based on the no. of study hours) Using simple linear regression model, forecasting the marks of a student based on the numbers of hours studied per day. Tool(s) Used - Python (Jupyter Notebook)
